@@ -22,5 +22,7 @@ password_field.send_keys("your_password")
 login_button = driver.find_element_by_name("login_button")
 login_button.click()
 
-# close the browser
+# close browser
 driver.quit()
+
+
